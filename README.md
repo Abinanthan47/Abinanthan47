@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/abinanthan24" target="blank"><img src="https://img.shields.io/twitter/follow/abinanthan24?logo=twitter&style=for-the-badge" alt="abinanthan24" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain , Ai**
+- 🔭 I’m currently working on **Blockchain , Ai**,App Dev**,
 
-- 🌱 I’m currently learning **NEXTJS,REACT,SOLIDITY**
+- 🌱 I’m currently learning **FLUTTER ,NEXTJS,REACT,SOLIDITY**
 
 - 👯 I’m looking to collaborate on **Opensource**
 
