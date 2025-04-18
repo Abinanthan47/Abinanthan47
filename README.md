@@ -66,11 +66,4 @@
 
 <img src="https://raw.githubusercontent.com/Abinanthan47/Abinanthan47/output/snake.svg" alt="Snake animation" />
 
-## 🎵 Recently Played
-
-<div align="left">
-  <a href="https://open.spotify.com/user/DjBAN">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=nkr12e1n1ancz02xrbs378qxk&count=1" alt="Spotify recently played" />
-  </a>
-</div>
 
