@@ -49,7 +49,9 @@
         <li><b>AI:</b> Building Generative Tools</li>
       </ul>
     </td>
-  </tr>
+  </tr>  
+  
+---
 
   <tr>
     <td width="50%" align="center">
@@ -63,5 +65,5 @@
 
 <div align="center">
   <br/>
-  <p><i>If you want clean UI, fast performance, and real execution — let’s talk.</i></p>
+  <p><i>You Know the Bussiness , I Know the Devsign  <a href="mailto:abinanthan247@gmail.com"><b>Let's Cook ? </b> </a></i></p>
 </div>
