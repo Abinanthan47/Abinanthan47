@@ -45,7 +45,7 @@
       <h3>📌 Current Focus</h3>
       <ul>
         <li><b>Production:</b> Shipping Grade</li>
-        <li><b>Theory:</b> DSA & System Design</li>
+        <li><b>Building:</b> UI Components</li>
         <li><b>AI:</b> Building Generative Tools</li>
       </ul>
     </td>
