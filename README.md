@@ -10,7 +10,7 @@
   <tr>
     <td colspan="2" align="center" padding="20">
       <h1>Hi, I'm Abinanthan 👋</h1>
-      <p><b>Design Engineer/b></p>
+      <p><b>Design Engineer | App Developer</b></p>
       <p>Building fast, scalable, and beautiful web applications.<br/>Shipping real products, freelancing, and contributing to open source.</p>
       <a href="https://abinanthan.vercel.app">Portfolio</a> • <a href="mailto:abinanthan247@gmail.com">Email</a>
       <br/><br/>
